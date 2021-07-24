@@ -2,7 +2,7 @@
 My name is Janusan Lingeswaran but just call me **Janu**. Welcome on my Github profile!
 - :mortar_board: &nbsp; I'm a creative, inquisitive **computer science student at RWTH Aachen University** in Germany.
 - :seedling: &nbsp; I’m currently learning the MERN stack.
-- :trophy: &nbsp; In my free time, I like to participate in hackathons. If you know of an interesting hackathon and are looking for a team partner, feel free to contact me via email.
+- :trophy: &nbsp; In my free time, I like to participate in hackathons. If you know of an interesting hackathon and are looking for a valuable team member, feel free to contact me via email.
 
 Besides being a **working student** at **Küchenheld**, I am currently working on the following projects and ideas:
 
