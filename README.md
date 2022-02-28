@@ -1,11 +1,11 @@
 ### Hi there 👋
 My name is Janu Lingeswaran. Welcome on my Github profile!  
-I ...
-- :mortar_board:&nbsp;am a creative, inquisitive **computer science student at RWTH Aachen University** in Germany.
-- :bulb:&nbsp;am currently working on several [**projects and ideas**](Janus_Projects.md).
-- :seedling:&nbsp;am currently learning the **MERN stack**.
-- :briefcase:&nbsp;am a **Working Student** at **Küchenheld**.
-- :trophy:&nbsp;like to participate in hackathons in my free time. If you know of an interesting hackathon and are looking for a valuable team member, feel free to contact me via email.  
+I ...  
+:mortar_board:&nbsp;&nbsp;am a creative, inquisitive **computer science student at RWTH Aachen University** in Germany.  
+:bulb:&nbsp;&nbsp;am currently working on several [**projects and ideas**](Janus_Projects.md).  
+:seedling:&nbsp;&nbsp;am currently learning the **MERN stack**.  
+:briefcase:&nbsp;&nbsp;am a **Working Student** at **Küchenheld**.  
+:trophy:&nbsp;&nbsp;like to participate in hackathons in my free time. If you know of an interesting hackathon and are looking for a valuable team member, feel free to contact me via email.  
 
 <!--
 Besides being a **working student** at **Küchenheld**, I am currently working on the following projects and ideas:
