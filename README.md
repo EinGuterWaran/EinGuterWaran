@@ -1,9 +1,13 @@
 ### Hi there 👋
-My name is Janu Lingeswaran. Welcome on my Github profile!
-- :mortar_board: &nbsp; I'm a creative, inquisitive **computer science student at RWTH Aachen University** in Germany.
-- :seedling: &nbsp; I’m currently learning the MERN stack.
-- :trophy: &nbsp; In my free time, I like to participate in hackathons. If you know of an interesting hackathon and are looking for a valuable team member, feel free to contact me via email.
+My name is Janu Lingeswaran. Welcome on my Github profile!  
+I ...
+- :mortar_board:&nbsp;am a creative, inquisitive **computer science student at RWTH Aachen University** in Germany.
+- :bulb:&nbsp;am currently working on several [**projects and ideas**](Janus_Projects.md).
+- :seedling:&nbsp;am currently learning the **MERN stack**.
+- :briefcase:&nbsp;am a **Working Student** at **Küchenheld**.
+- :trophy:&nbsp;like to participate in hackathons in my free time. If you know of an interesting hackathon and are looking for a valuable team member, feel free to contact me via email.  
 
+<!--
 Besides being a **working student** at **Küchenheld**, I am currently working on the following projects and ideas:
 
 - :revolving_hearts: :globe_with_meridians: &nbsp; Dating apps for ethnic diasporas and the special needs of them
@@ -14,7 +18,7 @@ Besides being a **working student** at **Küchenheld**, I am currently working o
 I am also working on other exciting projects which I will add here as soon as they become more concrete.
 
 
-<!--
+
 **EinGuterWaran/EinGuterWaran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
