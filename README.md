@@ -5,7 +5,7 @@ I ...
 
 - :bulb:&nbsp; am currently working on several [**projects and ideas**](Janus_Projects.md).  
 
-- :briefcase:&nbsp; am a **Working Student** at **Küchenheld**. 
+<!-- - :briefcase:&nbsp; am a **Working Student** at **Küchenheld**. -->
 
 - :trophy:&nbsp; like to participate in hackathons in my free time. If you know of an interesting hackathon and are looking for a valuable team member, feel free to contact me via email.  
 
