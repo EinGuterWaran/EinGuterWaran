@@ -7,10 +7,9 @@ I ...
 
 <!-- - :briefcase:&nbsp; am a **Working Student** at **Küchenheld**. -->
 
+- :handshake: also **volunteer** as part of [**IT4Kids**](https://it-for-kids.org/vision) as a course instructor and get to teach kids about digitalization through graphical programming at Aachen elementary schools on a weekly basis. 
+
 - :trophy:&nbsp; like to participate in hackathons in my free time. If you know of an interesting hackathon and are looking for a valuable team member, feel free to contact me via email.  
-
-
-
 
 
 <!--
