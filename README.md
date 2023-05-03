@@ -9,8 +9,7 @@ I ...
 
 - :handshake: **volunteer** as part of [**IT4Kids**](https://it-for-kids.org/vision) as a course instructor and get to teach kids about digitalization through graphical programming at Aachen elementary schools on a weekly basis. 
 
-- :trophy:&nbsp; like to participate in hackathons in my free time. If you know of an interesting hackathon and are looking for a valuable team member, feel free to contact me via email.  
-
+- :computer: offer **custom software development services** and specialize in turning your ideas into reality. My goal is to fully understand your needs and work with you to create tailored solutions that meet your specific requirements. Please feel free to contact me via email (janu@lingeswaran.com) to discuss your project ideas and requirements.
 
 <!--
 Besides being a **working student** at **Küchenheld**, I am currently working on the following projects and ideas:
