@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Janu Lingeswaran. Welcome on my Github profile!  
+My name is Janu. Welcome on my Github profile!  
 I ...  
 - :mortar_board:&nbsp; am a creative, inquisitive **computer science student at RWTH Aachen University** in Germany.  
 
