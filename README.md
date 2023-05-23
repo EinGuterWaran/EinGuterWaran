@@ -5,7 +5,7 @@ I ...
 
 - :bulb:&nbsp; am currently working on several [**projects and ideas**](Janus_Projects.md).  
 
-- :briefcase:&nbsp; am a **Working Student Implementation Consultant** at [**e-dynamics**](https://www.e-dynamics.de/).
+- :briefcase:&nbsp; am a **Implementation Consultant** at [**e-dynamics**](https://www.e-dynamics.de/).
 
 - :handshake: **volunteer** as part of [**IT4Kids**](https://it-for-kids.org/vision) as a course instructor and get to teach kids about digitalization through graphical programming at Aachen elementary schools on a weekly basis. 
 
