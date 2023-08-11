@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Janu. Welcome on my Github profile!  
+My name is Janu. Welcome to my Github profile!  
 I ...  
 - :mortar_board:&nbsp; am a creative, inquisitive **computer science student at RWTH Aachen University** in Germany.  
 
@@ -9,7 +9,7 @@ I ...
 
 - :handshake: **volunteer** as part of [**IT4Kids**](https://it-for-kids.org/vision) as a course instructor and get to teach kids about digitalization through graphical programming at Aachen elementary schools on a weekly basis. 
 
-- :computer: offer **custom software development and consulting services** and specialize in turning your ideas into reality. My goal is to fully understand your needs and work with you to create tailored solutions that meet your specific requirements. Please feel free to contact me via email (janu@lingeswaran.com) to discuss your project ideas and requirements.
+- :computer: offer **custom software development and consulting services** and specialize in turning your ideas into reality. My goal is to fully understand your needs and work with you to create tailored solutions that meet your specific requirements. You can find out more about my work and expertise at [**www.lingeswaran.com**](http://www.lingeswaran.com/). If you're interested in collaborating or have any inquiries, please feel free to contact me via email at janu@lingeswaran.com.
 
 <!--
 Besides being a **working student** at **Küchenheld**, I am currently working on the following projects and ideas:
