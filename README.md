@@ -1,15 +1,15 @@
 ### Hi there 👋
-My name is Janu. Welcome to my Github profile!  
-I ...  
-- :mortar_board:&nbsp; am a creative, inquisitive **computer science student at RWTH Aachen University** in Germany.  
+My name is Janu. Welcome to my Github profile!
 
-- :bulb:&nbsp; am currently working on several [**projects and ideas**](Janus_Projects.md).  
+:mortar_board:&nbsp; I am a creative, inquisitive **computer science student at RWTH Aachen University** in Germany.  
 
-- :briefcase:&nbsp; am an **Implementation Consultant** at [**e-dynamics**](https://www.e-dynamics.de/).
+:bulb:&nbsp; I am currently working on several [**projects and ideas**](Janus_Projects.md).  
 
-- :handshake: **volunteer** as part of [**IT4Kids**](https://it-for-kids.org/vision) as a course instructor and get to teach kids about digitalization through graphical programming at Aachen elementary schools on a weekly basis. 
+:briefcase:&nbsp; I am an **Implementation Consultant** at [**e-dynamics**](https://www.e-dynamics.de/).
 
-- :computer: offer **custom software development and consulting services** and specialize in turning your ideas into reality. My goal is to fully understand your needs and work with you to create tailored solutions that meet your specific requirements. You can find out more about my work and expertise at [**www.lingeswaran.com**](http://www.lingeswaran.com/). If you're interested in collaborating or have any inquiries, please feel free to contact me via email at janu@lingeswaran.com.
+:handshake: I **volunteer** as part of [**IT4Kids**](https://it-for-kids.org/vision) as a course instructor and get to teach kids about digitalization through graphical programming at Aachen elementary schools on a weekly basis. 
+
+:computer: I offer **custom software development and consulting services** and specialize in turning your ideas into reality. My goal is to fully understand your needs and work with you to create tailored solutions that meet your specific requirements. You can find out more about my work and expertise at [**www.lingeswaran.com**](http://www.lingeswaran.com/). If you're interested in collaborating or have any inquiries, please feel free to contact me via email at janu@lingeswaran.com.
 
 <!--
 Besides being a **working student** at **Küchenheld**, I am currently working on the following projects and ideas:
