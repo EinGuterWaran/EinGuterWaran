@@ -4,7 +4,7 @@
 I'm deeply passionate about Tech Entrepreneurship and Product Development. I regularly share my insights on these topics on my [Twitter/X](https://twitter.com/JanuBuilds) and in my newsletter, ["The Future of Digital Products"](https://digitalfuture.beehiiv.com/subscribe).
 
 #### :wrench: Professional Services
-As a freelancer, I offer a variety of software services, including various software development services, automation software, and web development.
+As a freelancer, I offer a variety of software services, including automation software, web development and AI centred software.
 
 Additionally, I'm part of FeatherFlow ([visit our website](http://feather-flow.com/)), where we specialize in MVP Fullstack software development. Our goal is to help you build your MVP to effectively test the market.
 
