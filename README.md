@@ -1,15 +1,13 @@
 ### :wave: Hi there, I'm Janu from Germany!
 
 #### :computer: About Me
-I'm deeply passionate about Tech Entrepreneurship and Product Development. I regularly share my insights on these topics on my [Twitter/X](https://twitter.com/JanuBuilds) and in my newsletter, ["The Future of Digital Products"](https://digitalfuture.beehiiv.com/subscribe).
+I'm deeply passionate about Tech Entrepreneurship and Product Development. I regularly share my learnings on these topics on my [Twitter/X](https://twitter.com/JanuBuilds) and in my newsletter, ["The Future of Digital Products"](https://digitalfuture.beehiiv.com/subscribe).
 
 #### :wrench: Professional Services
-As a freelancer, I offer a variety of software services, including automation software, web development and AI centred software.
-
-Additionally, I'm part of FeatherFlow ([visit our website](http://feather-flow.com/)), where we specialize in MVP Fullstack software development. Our goal is to help you build your MVP to effectively test the market.
+I'm the founder of **FeatherFlow** ([visit our website](http://feather-flow.com/)), where we specialize in MVP Fullstack software development. At FeatherFlow, we are dedicated to helping entrepreneurs and businesses build their MVP to effectively test the market. Our expertise spans across various software development areas, ensuring that your product not only meets market demands but also stands out for its innovation and quality.
 
 #### :briefcase: Current Role
-I'm also an **Implementation Consultant** at [e-dynamics](https://www.e-dynamics.de/), where I specialize in web analytics consulting. I work with big companies like C&A and Alltours, helping them optimize their online presence and digital strategies.
+I have recently started as a **Product Manager** at Exactag, based in Düsseldorf. In this role, I focus on technical product management for B2B SaaS in the Digital Analytics sector. My responsibilities include product conception, quality assurance, team coordination, and project management.
 
 #### :handshake: Volunteering and Community Engagement
 I'm committed to giving back to the community. As a volunteer course instructor with [IT4Kids](https://it-for-kids.org/vision), I teach children about digitalization through graphical programming at Aachen elementary schools. This weekly engagement allows me to share my passion for technology with the next generation.
