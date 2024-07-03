@@ -1,7 +1,6 @@
 ### :wave: Hi there, I'm Janu from Germany!
 
-#### About Me
-Tech enthusiast from Germany, focused on entrepreneurship and product development. I share insights on [Twitter/X](https://twitter.com/JanuBuilds) and in my newsletter ["Build Profitable Software Products"](https://digitalfuture.beehiiv.com/subscribe).
+Tech enthusiast from Aachen, focused on entrepreneurship and product development. I share insights on [Twitter/X](https://twitter.com/JanuBuilds) and in my newsletter ["Build Profitable Software Products"](https://digitalfuture.beehiiv.com/subscribe).
 
 #### Professional Services
 Founder of [FeatherFlow](http://feather-flow.com/) - Specializing in MVP development for entrepreneurs and businesses. We build innovative, market-ready products across various software domains.
