@@ -1,17 +1,21 @@
 ### :wave: Hi there, I'm Janu from Germany!
 
-#### :computer: About Me
-I'm deeply passionate about Tech Entrepreneurship and Product Development. I regularly share my learnings on these topics on my [Twitter/X](https://twitter.com/JanuBuilds) and in my newsletter, ["Build Profitable Software Products"](https://digitalfuture.beehiiv.com/subscribe).
+#### About Me
+Tech enthusiast from Germany, focused on entrepreneurship and product development. I share insights on [Twitter/X](https://twitter.com/JanuBuilds) and in my newsletter ["Build Profitable Software Products"](https://digitalfuture.beehiiv.com/subscribe).
 
-#### :wrench: Professional Services
-I'm the founder of **FeatherFlow** ([visit our website](http://feather-flow.com/)), where we specialize in MVP Fullstack software development. At FeatherFlow, we are dedicated to helping entrepreneurs and businesses build their MVP to effectively test the market. Our expertise spans across various software development areas, ensuring that your product not only meets market demands but also stands out for its innovation and quality.
+#### Professional Services
+Founder of [FeatherFlow](http://feather-flow.com/) - Specializing in MVP development for entrepreneurs and businesses. We build innovative, market-ready products across various software domains.
 
-#### :briefcase: Current Role
-I have recently started as a **Product Manager** at Exactag, based in Düsseldorf. In this role, I focus on technical product management for B2B SaaS in the Digital Analytics sector. My responsibilities include product conception, quality assurance, team coordination, and project management.
+#### Current Role
+Product Manager at Exactag, Düsseldorf
+- Focus: Technical product management for B2B SaaS in Digital Analytics
+- Responsibilities: Product conception, QA, team coordination, project management
 
-#### :handshake: Volunteering and Community Engagement
-I'm committed to giving back to the community. As a volunteer course instructor with [IT4Kids](https://it-for-kids.org/vision), I teach children about digitalization through graphical programming at Aachen elementary schools. This weekly engagement allows me to share my passion for technology with the next generation.
-
+#### Volunteering and Community Engagement
+I'm committed to giving back to the community and am a Volunteer instructor with [IT4Kids](https://it-for-kids.org/vision).
+- Teaching digitalization through graphical programming at Aachen elementary schools
+- Weekly sessions to inspire the next generation of tech enthusiasts
+  
 <!--
 ### Hi there 👋
 My name is Janu. Welcome to my Github profile!
