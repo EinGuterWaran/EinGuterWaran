@@ -25,5 +25,3 @@ I also run [BoilerplateHub](https://boilerplatehub.com/), which helps developers
 I volunteer with [IT4Kids](https://it-for-kids.org/vision) because I love teaching kids about tech:
 - We use fun, visual programming to introduce kids to the digital world.
 - I teach weekly classes at elementary schools in Aachen.
-
-Let's connect and maybe build something cool together! 💡✨
