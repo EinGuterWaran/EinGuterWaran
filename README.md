@@ -1,27 +1,18 @@
-# Hi, I’m Janu. I love building Software Products.
+## 👋 Hi! I'm Janu, a product-minded developer turned entrepreneur based in Germany. 🇩🇪
 
-Focused on entrepreneurship and software product development.
+I'm the founder of [FeatherFlow](http://feather-flow.com/), where we build first working products (MVPs) for startup founders and help them get off the ground.
 
-## What I Do
-- I breathe life into ideas, turning concepts into market-ready products.
-- I share what I know on [Twitter/X](https://twitter.com/JanuBuilds) and through my newsletter ["Build Profitable Software Products"](https://digitalfuture.beehiiv.com/subscribe).
-  
-## My Work
-### FeatherFlow: Helping startups/founders build their MVP
-As the founder of [FeatherFlow](http://feather-flow.com/), I'm on a mission to help entrepreneurs and businesses build their first working products (MVPs) in all kinds of domains.
+I share what I do and know on [Twitter/X](https://twitter.com/JanuBuilds).
 
-### Exactag: Making Digital Analytics Better
-I'm a Product Manager at Exactag in Düsseldorf. My job involves:
-- Bridging technical complexities with business needs
-- Balancing product conception and strategy
-- Managing diverse stakeholders
-- Ensuring quality across our solutions
-- Overseeing project timelines and deliverables
+### 🌌 The Januverse
+| [FeatherFlow](https://feather-flow.com) | [BoilerplateHub](https://boilerplatehub.com) |
+|:---------------------------------------|:-------------------------------------------|
+| Building Software MVPs for startup founders | Directory of Boilerplates & SaaS Starter Kits |
 
-### BoilerplateHub: Making Shipping Faster
-I also run [BoilerplateHub](https://boilerplatehub.com/), which helps developers start their projects faster by providing ready-to-use code templates.
+### 🧳 Current Roles
+Product Manager at Exactag (since 2024)
 
-## Giving Back
-I volunteer with [IT4Kids](https://it-for-kids.org/vision) because I love teaching kids about tech:
-- We use fun, visual programming to introduce kids to the digital world.
-- I teach weekly classes at elementary schools in Aachen.
+Founder at FeatherFlow (since 2023)
+
+### 🎓 Education
+BSc Computer Science, RWTH Aachen
