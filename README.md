@@ -1,7 +1,7 @@
 ## 👋 Hi! I'm Janu, a product-minded developer turned entrepreneur based in Germany. 🇩🇪
 I'm the founder of [FeatherFlow](http://feather-flow.com/), a studio crafting MVPs (first working products). We help ambitious startup founders and entrepreneurs bring their concepts to market quickly and effectively.
 
-I share what I do and know on 🐦 [Twitter/X](https://twitter.com/JanuBuilds), 📺 [YouTube](http://youtube.com/@janubuilds) & 🦋 [Bsky](http://bsky.app/profile/janu.lol).
+I share what I do, learn and know on 🐦 [Twitter/X](https://twitter.com/JanuBuilds), 📺 [YouTube](http://youtube.com/@janubuilds) & 🦋 [Bsky](http://bsky.app/profile/janu.lol).
 
 ### 🌌 The Januverse
 
