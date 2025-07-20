@@ -7,7 +7,7 @@ I share what I do, learn and know on 🐦 [Twitter/X](https://twitter.com/JanuBu
 
 <table>
   <tr>
-    <td><img src="fflogo.png" width="40" height="40" alt="FeatherFlow"></td>
+    <td><img src="Icon (White).png" width="40" height="40" alt="FeatherFlow"></td>
     <td>FeatherFlow</td>
     <td>Turn your expertise into AI and SaaS products without growing your team</td>
     <td><a href="https://feather-flow.com">feather-flow.com</a></td>
