@@ -1,4 +1,4 @@
-## 👋 Hi! I'm Janu, a product-minded developer turned entrepreneur based in Germany. 🇩🇪
+## 👋 Hi! I'm Janu
 I'm the founder of [FeatherFlow](http://featherflow.com/), a product studio, designing & developing AI-first products.
 
 I share what I do, learn and know on 🐦 [Twitter/X](https://twitter.com/JanuBuilds), 📺 [YouTube](http://youtube.com/@janubuilds) & 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/janu-lingeswaran/).
