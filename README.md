@@ -10,7 +10,7 @@ I share what I do, learn and know on 🐦 [Twitter/X](https://twitter.com/JanuBu
     <td><img src="Logo (White).jpg" width="40" height="40" alt="FeatherFlow"></td>
     <td>FeatherFlow</td>
     <td>Turn your expertise into AI and SaaS products without growing your team</td>
-    <td><a href="https://feather-flow.com">feather-flow.com</a></td>
+    <td><a href="https://featherflow.com">featherflow.com</a></td>
   </tr>
   <tr>
     <td><img src="https://boilerplatehub.com/logo.png" width="40" height="40" alt="BoilerplateHub"></td>
