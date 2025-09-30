@@ -7,16 +7,22 @@ I share what I do, learn and know on 🐦 [Twitter/X](https://twitter.com/JanuBu
 
 <table>
   <tr>
-    <td><img src="Logo (White).jpg" width="40" height="40" alt="FeatherFlow"></td>
+    <td><img src="Logo (White).jpg" width="40" height="40" alt="FeatherFlow Logo"></td>
     <td>FeatherFlow</td>
     <td>Turn your expertise into AI and SaaS products without growing your team</td>
     <td><a href="https://featherflow.com">featherflow.com</a></td>
   </tr>
   <tr>
-    <td><img src="https://boilerplatehub.com/logo.png" width="40" height="40" alt="BoilerplateHub"></td>
+    <td><img src="https://boilerplatehub.com/logo.png" width="40" height="40" alt="BoilerplateHub Logo"></td>
     <td>BoilerplateHub</td>
     <td>Directory of Boilerplates & SaaS Starter Kits</td>
     <td><a href="https://boilerplatehub.com">boilerplatehub.com</a></td>
+  </tr>
+    <tr>
+    <td><img src="effortless.png" width="40" height="40" alt="Effortless Backlinks Logo"></td>
+    <td>Effortless Backlinks</td>
+    <td>Rank higher and get more organic traffic in 30 days</td>
+    <td><a href="https://www.effortlessbacklinks.com/">effortlessbacklinks.com</a></td>
   </tr>
     <tr>
     <td><b>IFG</b></td>
