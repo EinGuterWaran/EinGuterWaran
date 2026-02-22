@@ -1,5 +1,5 @@
 ## Hi! I'm Janu.
-I'm the founder of [FeatherFlow](http://featherflow.com/), a product studio that designs and develops AI-first products from zero to launch.
+I'm the founder of [FeatherFlow](http://featherflow.com/). We design and build AI products from strategy to launch
 
 I share what I do, learn and know on 🐦 [Twitter/X](https://twitter.com/JanuBuilds), 📺 [YouTube](http://youtube.com/@janubuilds) & 🧑‍💼 [LinkedIn](https://www.linkedin.com/in/janu-lingeswaran/).
 
@@ -9,7 +9,7 @@ I share what I do, learn and know on 🐦 [Twitter/X](https://twitter.com/JanuBu
   <tr>
     <td><img src="Logo (White).jpg" width="40" height="40" alt="FeatherFlow Logo"></td>
     <td>FeatherFlow</td>
-    <td>A product studio, designing and building AI-first and SaaS products.</td>
+    <td>We design and build AI products from strategy to launch</td>
     <td><a href="https://featherflow.com">featherflow.com</a></td>
   </tr>
   <tr>
