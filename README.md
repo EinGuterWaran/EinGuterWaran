@@ -1,6 +1,6 @@
 ## Hi! I'm Janu.
 
-Founder of [FeatherFlow](http://featherflow.com/). We design and build AI products from strategy to launch
+Founder of [FeatherFlow](http://featherflow.com/). We design and build AI products from strategy to launch.
 
 I share what I do, learn and know on:
 
